@@ -1,0 +1,26 @@
+{
+  "name": "pertemuan-2",
+  "version": "1.0.0",
+  "description": "Sistem Informasi PUB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romikusumabakti/pertemuan-2.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Romi Kusuma Bakti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romikusumabakti/pertemuan-2/issues"
+  },
+  "homepage": "https://github.com/romikusumabakti/pertemuan-2#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "type": "module"
+}
