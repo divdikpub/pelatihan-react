@@ -28,6 +28,7 @@
     - [`git revert`](#git-revert)
 - [GitHub](#github)
   - [Mengapa tidak menggunakan GitLab?](#mengapa-tidak-menggunakan-gitlab)
+  - [Menambahkan file README](#menambahkan-file-readme)
   - [Menghubungkan repository lokal ke GitHub](#menghubungkan-repository-lokal-ke-github)
 - [NPM (Node Package Manager)](#npm-node-package-manager)
   - [Menginstal package](#menginstal-package)
@@ -45,8 +46,8 @@
 Markdown adalah format dokumen yang paling banyak digunakan oleh para developer, termasuk programmer.
 
 Markdown biasa digunakan untuk:
-- Menulis file README di GitHub
 - Menulis dokumentasi bahasa pemrograman, library, atau framework
+- Menulis file README di GitHub
 - Menulis pertanyaan dan jawaban di Stack Overflow
 - Menulis postingan di Reddit (forum diskusi developer)
 - Menulis postingan di DEV Community (blog komunitas developer)
@@ -276,11 +277,23 @@ Sumber: [https://docs.github.com/en/get-started/using-git/about-git](https://doc
 
 # GitHub
 
-GitHub adalah tempat hosting untuk repository Git.
+GitHub adalah tempat meng-hosting repository Git.
 
 ## Mengapa tidak menggunakan GitLab?
 
 GitLab bagus. Tapi masih kalah populer dari GitHub. Dunia kerja lebih banyak menggunakan GitHub. Jadi untuk pelatihan ini kita akan menggunakan GitHub.
+
+## Menambahkan file README
+
+Kita perlu menambahkan file README ke repository untuk menyampaikan informasi penting tentang project kita.
+
+README adalah item pertama yang dilihat pengunjung saat mengunjungi repository kita. File README biasanya menyertakan informasi tentang:
+
+- Apa yang dilakukan project
+- Mengapa project ini berguna
+- Bagaimana cara pengguna dapat memulai project
+- Di mana pengguna bisa mendapatkan bantuan dengan project kita
+- Siapa yang memelihara dan berkontribusi pada project
 
 ## Menghubungkan repository lokal ke GitHub
 

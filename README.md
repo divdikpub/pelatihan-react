@@ -1,7 +1,7 @@
 # Pelatihan React 2022
 1. Node.js dan konsep JavaScript
 2. Markdown, Git, GitHub, dan NPM
-3. React, JSX, Component dan property
+3. React, JSX, component, dan property
 4. useState dan event handler
 5. useEffect
 6. Style (CSS dan Tailwind CSS)
